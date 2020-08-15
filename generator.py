@@ -2,8 +2,8 @@
  File Name: payroll.py
  Author's Name: Tamanna Yasmin Jitu
  Student Number: 300924009
- Date: July 31, 2020
- Description: Showing Data into tabular format
+ Date: August 15, 2020
+ Description: Sentence Generator
 '''
 
 import random
