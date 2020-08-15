@@ -1,0 +1,4 @@
+eat
+run
+sleep
+walk
